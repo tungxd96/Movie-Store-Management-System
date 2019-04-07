@@ -1,0 +1,9 @@
+B 1000 D D Barry Levinson, Good Morning Vietnam,
+B 1000 D C 5 1940 Katherine Hepburn
+B 1000 D D Gus Van Sant, Good Will Hunting,
+B 1000 D C 5 1940 Cary Grant
+B 1000 D C 3 1971 Ruth Gordon
+Z 1000 D C 10 1941 Humphrey Bogart
+B 1000 D F Bogus Title, 2001
+B 1000 Z F Fargo, 1996
+B 1000 D D Steven Spielberg, Bogus Title,

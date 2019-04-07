@@ -1,0 +1,7 @@
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+F, 10, Woody Allen, Annie Hall, 1977
+F, 10, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Joel Coen, Fargo, 1996
+F, 10, John Landis, National Lampoon's Animal House, 1978
+F, 10, Nora Ephron, You've Got Mail, 1998
